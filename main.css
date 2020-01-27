@@ -1,0 +1,33 @@
+body{
+    background-color: pink;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+#navbar{
+    background-color: whitesmoke;
+    text-align: right;
+}
+
+#signup{ 
+    background-color: whitesmoke;
+}
+
+.nav-links{
+    text-align: right;
+}
+
+.socialimage{
+    width: 30px;
+    height: 30px;
+    border-radius: 50;
+}
+
+#social a{
+    text-decoration: none;
+}
+
+#signup{
+    width: 300px;
+    margin: auto;
+}
